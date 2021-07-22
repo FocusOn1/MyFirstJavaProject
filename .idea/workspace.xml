@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myFirstJavaProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82208b22-5c8d-4b56-8a6f-b4d26d234509" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/FocusOn1/JAVA.git" />
+        <option value="https://github.com/FocusOn1/MyFR.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pPwYkPowdtysuySMGJwrNLuZ86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\selfdm\JAVA\myFirstJavaProject\src\JavaProjectThree\unit10\io\lib" />
+      <recent name="D:\selfdm\JAVA\myFirstJavaProject\src\JavaProjectThree\unit10" />
+      <recent name="D:\selfdm\JAVA\myFirstJavaProject\src\JavaProjectThree\unit10\io" />
+      <recent name="D:\selfdm\JAVA\myFirstJavaProject\src\JavaProjectThree\unit9\nnine\util" />
+      <recent name="D:\selfdm\JAVA\myFirstJavaProject\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaProjectThree.unit10.src.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\selfdm\JAVA\myFirstJavaProject\src\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo01InnerClass">
+    <configuration name="Demo01InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumSelf.Demo01InnerClass" />
+      <module name="myFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sumSelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Examination1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfTest.Examination1" />
+      <module name="myFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProjectThree.frame.MainFrame" />
+      <module name="myFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProjectThree.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProjectThree.unit10.io.test.TestMap" />
+      <module name="myFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProjectThree.unit10.io.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProjectThree.unit10.io.test.TestUser" />
+      <module name="myFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProjectThree.unit10.io.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProjectThree.unit10.io.test.TestUser" />
+      <module name="myFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProjectThree.unit10.io.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo01InnerClass" />
+        <item itemvalue="Application.Examination1" />
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="Application.TestUser" />
+        <item itemvalue="Application.TestMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\59501\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82208b22-5c8d-4b56-8a6f-b4d26d234509" name="Default Changelist" comment="" />
+      <created>1615098082083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615098082083</updated>
+      <workItem from="1615098120594" duration="1684000" />
+      <workItem from="1615120312307" duration="160000" />
+      <workItem from="1615120482445" duration="4434000" />
+      <workItem from="1615267874276" duration="584000" />
+      <workItem from="1615277237063" duration="3623000" />
+      <workItem from="1615281191110" duration="5353000" />
+      <workItem from="1615390904139" duration="729000" />
+      <workItem from="1615452135034" duration="13890000" />
+      <workItem from="1616129204340" duration="7194000" />
+      <workItem from="1616329385742" duration="2429000" />
+      <workItem from="1616505565184" duration="3956000" />
+      <workItem from="1616854474074" duration="3437000" />
+      <workItem from="1617092259892" duration="5730000" />
+      <workItem from="1617378089692" duration="6358000" />
+      <workItem from="1617620481116" duration="5918000" />
+      <workItem from="1617705122125" duration="12214000" />
+      <workItem from="1617892443063" duration="6305000" />
+      <workItem from="1617980854992" duration="2610000" />
+      <workItem from="1618031259854" duration="5750000" />
+      <workItem from="1618317570403" duration="537000" />
+      <workItem from="1618640693823" duration="616000" />
+      <workItem from="1618927635563" duration="5811000" />
+      <workItem from="1619235862031" duration="4825000" />
+      <workItem from="1619352391986" duration="3550000" />
+      <workItem from="1619430570716" duration="2478000" />
+      <workItem from="1619443905793" duration="1699000" />
+      <workItem from="1619695436911" duration="5842000" />
+      <workItem from="1620745535048" duration="859000" />
+      <workItem from="1620826638497" duration="2920000" />
+      <workItem from="1621430765941" duration="3998000" />
+      <workItem from="1621481607586" duration="4731000" />
+      <workItem from="1621498421486" duration="222000" />
+      <workItem from="1621498699482" duration="7081000" />
+      <workItem from="1622040088478" duration="1718000" />
+      <workItem from="1622094747571" duration="14000" />
+      <workItem from="1622094772677" duration="8835000" />
+      <workItem from="1622779289187" duration="714000" />
+      <workItem from="1622886279690" duration="44000" />
+      <workItem from="1622886337729" duration="4424000" />
+      <workItem from="1622900054923" duration="1535000" />
+      <workItem from="1623488071760" duration="4641000" />
+      <workItem from="1623513471067" duration="674000" />
+      <workItem from="1623515192782" duration="923000" />
+      <workItem from="1623516125158" duration="51000" />
+      <workItem from="1623516178796" duration="2207000" />
+      <workItem from="1623518406356" duration="2908000" />
+      <workItem from="1623521571813" duration="1385000" />
+      <workItem from="1623572056678" duration="168000" />
+      <workItem from="1623574260760" duration="805000" />
+      <workItem from="1624350916344" duration="4632000" />
+      <workItem from="1625805807409" duration="4628000" />
+      <workItem from="1625835381894" duration="680000" />
+      <workItem from="1625900652606" duration="5168000" />
+      <workItem from="1626351224302" duration="952000" />
+      <workItem from="1626399949107" duration="6902000" />
+      <workItem from="1626617179878" duration="356000" />
+      <workItem from="1626660741759" duration="1343000" />
+      <workItem from="1626696621119" duration="597000" />
+      <workItem from="1626771109720" duration="5465000" />
+      <workItem from="1626936330771" duration="4326000" />
+      <workItem from="1626942369258" duration="339000" />
+      <workItem from="1626942722743" duration="2531000" />
+      <workItem from="1626945515290" duration="193000" />
+      <workItem from="1626945713500" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="613" y="93" key="#Inspections" timestamp="1622041428699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="613" y="93" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1622041428699" />
+    <state x="282" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1626512301005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1626512301005" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1623522367109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1623522367109" />
+    <state x="480" y="90" key="FileChooserDialogImpl" timestamp="1626945852446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="90" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626945852446" />
+    <state x="380" y="250" key="Github.CreatePullRequestDialog" timestamp="1626946184619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="250" key="Github.CreatePullRequestDialog/0.0.1536.824@0.0.1536.824" timestamp="1626946184619" />
+    <state x="406" y="278" width="567" height="204" key="Github.ShareDialog" timestamp="1626943898248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="278" width="567" height="204" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1626943898248" />
+    <state width="540" height="87" key="GridCell.Tab.0.bottom" timestamp="1626664268860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="540" height="87" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626664268860" />
+    <state width="540" height="87" key="GridCell.Tab.0.center" timestamp="1626664268859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="540" height="87" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626664268859" />
+    <state width="540" height="87" key="GridCell.Tab.0.left" timestamp="1626664268859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="540" height="87" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626664268859" />
+    <state width="540" height="87" key="GridCell.Tab.0.right" timestamp="1626664268859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="540" height="87" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626664268859" />
+    <state width="406" height="230" key="GridCell.Tab.1.bottom" timestamp="1625838260576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="406" height="230" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625838260576" />
+    <state width="406" height="230" key="GridCell.Tab.1.center" timestamp="1625838260576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="406" height="230" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1625838260576" />
+    <state width="406" height="230" key="GridCell.Tab.1.left" timestamp="1625838260576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="406" height="230" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1625838260576" />
+    <state width="406" height="230" key="GridCell.Tab.1.right" timestamp="1625838260576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="406" height="230" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1625838260576" />
+    <state x="130" y="9" width="914" height="815" key="SettingsEditor" timestamp="1626945820429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="9" width="914" height="815" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1626945820429" />
+    <state x="41" y="126" key="Vcs.Push.Dialog.v2" timestamp="1626774806850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="126" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1626774806850" />
+    <state x="870" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1622887956733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="870" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1622887956733" />
+    <state x="204" y="74" width="596" height="750" key="find.popup" timestamp="1623519030292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="74" width="596" height="750" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1623519030292" />
+    <state x="560" y="214" key="git4idea.merge.GitMergeDialog" timestamp="1623518590355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="214" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1623518590355" />
+    <state x="417" y="170" key="git4idea.merge.GitPullDialog" timestamp="1626946045340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="170" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1626946045340" />
+    <state x="568" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1626945963726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1626945963726" />
+    <state x="178" y="22" key="new project wizard" timestamp="1623572220582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1623572220582" />
+    <state x="717" y="173" key="refactoring.ChangeSignatureDialog" timestamp="1621509507598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="717" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1621509507598" />
+  </component>
+</project>
